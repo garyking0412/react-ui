@@ -1,0 +1,16 @@
+{
+  "name": "@garyking/react-ui",
+  "version": "0.0.1",
+  "description": "A personalized react UI library",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.5",
+    "@rollup/plugin-node-resolve": "^15.2.2",
+    "@rollup/plugin-typescript": "^11.1.5",
+    "bun-types": "latest",
+    "rollup": "^3.29.4",
+    "rollup-plugin-dts": "^6.0.2",
+    "typescript": "^5.2.2"
+  }
+}
